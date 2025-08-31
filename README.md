@@ -21,5 +21,5 @@
 
 ### 🚀 **Connect with me:**
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://https://www.linkedin.com/in/simcha-bar-shalom-26a943281/?originalSubdomain=il)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/simcha-bar-shalom-26a943281/?originalSubdomain=il)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:simchabash84@gmail.com)
