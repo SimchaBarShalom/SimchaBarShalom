@@ -1,16 +1,25 @@
-## Hi there 👋
+#  Hi, I'm Simcha Bar Shalom!
 
-<!--
-**SimchaBarShalom/SimchaBarShalom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 About Me
+- 🎓 Computer Science student at The Open University  
+- 💻 Enjoy solving problems in Java and working with data structures  
+- 🚀 Curious about improving algorithms and exploring new programming concepts  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools I Work with: 
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50"/>
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50"/>
+  <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ" width="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50"/>
+</p>
+
+---
+
+### 🚀 **Connect with me:**
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://https://www.linkedin.com/in/simcha-bar-shalom-26a943281/?originalSubdomain=il)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:simchabash84@gmail.com)
