@@ -18,3 +18,5 @@
   <a href="https://www.linkedin.com/in/simcha-bar-shalom-26a943281/?originalSubdomain=il" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="35"/></a>
   <a href="mailto:simchabash84@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="35"/></a>
 </p>
+
+##
