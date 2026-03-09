@@ -8,7 +8,11 @@
 ## Skills & Tools I Work with:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="35"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="35"/>
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="35"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="35"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="35"/>
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="35"/>
   <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ" width="35"/>
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="35"/>
 </p>
